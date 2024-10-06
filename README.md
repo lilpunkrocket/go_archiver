@@ -6,7 +6,11 @@
 ```
 go build
 ```
-> **To run**
+> **To encode**
 ```
 <built binary name> pack vlc <path to file>
+```
+> **To decode**
+```
+<built binary name> unpack vlc <path to encoded file>
 ```
